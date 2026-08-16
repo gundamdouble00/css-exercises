@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+#even {
+  font-family: "Times New Roman";
+}
+
+#even.number2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#even.number4 {
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.odd {
+  background-color: lightpink;
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+
+.odd.number3 {
+  font-size: 24px;
+}
